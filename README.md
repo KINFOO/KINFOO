@@ -18,9 +18,13 @@ There are several areas to cover to acheive software quality.
 
 I use several kind of tests, also usability, performance and maintainability.
 
+<p align="center">
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KINFOO&no-frame=true&column=5&row=2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KINFOO&show_icons=true&hide_border=true&layout=compact)
+
+</p>
 
 <!--
 **KINFOO/KINFOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
